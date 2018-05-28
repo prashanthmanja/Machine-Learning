@@ -1,0 +1,5 @@
+Data: Blood Transfusion Service Center from UCI Machine Learning Repository
+Tasks:
+      • Implemented Supervised learning using L1-penalized SVM to classify the data.
+      • Implemented Semi-Supervised learning using L1-penalized SVM to label the data.
+      • Implemented unsupervised learning using Kmeans

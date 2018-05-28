@@ -1,3 +1,6 @@
+Data : Data : Activity Recognition system based on Multisensor Data Fusion  (AReM.zip)
+
+Tasks:
 •	Binary Classification using Logistic Regression to classify bending from all other activities
 •	Binary Classification Using L1-penalized logistic regression model
 •	Multi-class Classification using Multinomial regression model and Naive Bayes' classifier

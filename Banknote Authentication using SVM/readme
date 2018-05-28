@@ -1,0 +1,5 @@
+Data: Activity Recognition system based on Multisensor Data Fusion
+Tasks:
+      • Implemented Passive Learning with SVM using linear kernel and L1 penalty
+      • Implemented Active Learning with SVM using linear kernel and L1 penalty
+      • Performed a Monte Carlo simulation.

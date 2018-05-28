@@ -1,0 +1,8 @@
+Data: Communities and Crime data
+Tasks:
+      • Performed Data Imputation
+      • Fit a linear model using least squares to the training set and reported the test error.
+      • Fit a ridge regression model on the training set, with lambda chosen by cross-validation and reported the test error.
+      •  Fit a LASSO model on the training set, with lambda chosen by cross-validation and   reported the test error.
+      •  Fit a PCR model on the training set, with M (the number of principal components) chosen by cross-validation.
+      •  Implemented L1 penalized gradient boosting tree.
